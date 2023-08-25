@@ -1,4 +1,4 @@
-# Getting Started with Create React App using FIREBASE
+# Getting Started with Create React App using FIREBASE[IMDB clone]
 Deployed in Vercel:https://flixoverse00-ez13m6ch7-aritrichatterjee9.vercel.app/
 
 ![image](https://github.com/aritrichatterjee9/flixoverse00/assets/73156770/eb89c94d-338a-4a3a-bea1-e0cedbd4e48c)
