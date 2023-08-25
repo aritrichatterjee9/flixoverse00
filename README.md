@@ -2,6 +2,7 @@
 Deployed in Vercel:https://flixoverse00-ez13m6ch7-aritrichatterjee9.vercel.app/
 
 ![image](https://github.com/aritrichatterjee9/flixoverse00/assets/73156770/eb89c94d-338a-4a3a-bea1-e0cedbd4e48c)
+![image](https://github.com/aritrichatterjee9/flixoverse00/assets/73156770/b37d21c4-a295-4308-8886-31b50cc0bfad)
 
 
 
