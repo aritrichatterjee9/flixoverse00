@@ -32,7 +32,7 @@ const Footer = () => {
         target="_blank" // This attribute opens the link in a new tab
         rel="noopener noreferrer"
       >
-        &copy; 2023 Designed by Aritri Chatterjee_TheNothingStudio. All rights reserved.
+        &copy; 2023 Designed by Aritri Chatterjee_Nothing.ByteStudio. All rights reserved.
       </a>
     </footer>
   );
