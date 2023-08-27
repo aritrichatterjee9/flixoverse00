@@ -5,7 +5,7 @@ import { getDoc, doc } from "firebase/firestore";
 import { moviesRef } from "../firebase/firebase";
 import { db } from "../firebase/firebase";
 import { ProgressBar } from "react-loader-spinner";
-import Reviews from "./Reviews";
+import Reviews from "./Reviews"; 
 
 const Detail = () => {
   const { id } = useParams();
