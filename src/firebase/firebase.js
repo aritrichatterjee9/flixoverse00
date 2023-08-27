@@ -5,7 +5,7 @@ import 'firebase/compat/firestore';
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDilMZUUobJuZkOzUYJr5WdRNAW5lUJrDs",
+  apiKey: "",
   authDomain: "flixoverse.firebaseapp.com",
   projectId: "flixoverse",
   storageBucket: "flixoverse.appspot.com",
